@@ -1,6 +1,6 @@
 {
   "name": "expired-sauce",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A script that exits with 1 or 0 based on sauce labs overage.",
   "main": "expired-sauce.js",
   "bin": {
